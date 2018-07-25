@@ -4,7 +4,7 @@ def using_for
 	
  
 for item in checklist 
-    puts "I'm putting a pair of shoes away."
+    puts "Wingardium Leviosa"
 end
 end
 
